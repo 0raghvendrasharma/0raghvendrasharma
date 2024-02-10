@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **raghvendrasharma1122@gmail.com**
 
-- ⚡ Interest apart from coding: **Video Editing, Designing                                                & Photography**
+- ⚡ Interest apart from coding: **Video Editing, & Photography**
 <br/>
 
 <h3 align="left">Connect with me:</h3>
