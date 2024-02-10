@@ -2,15 +2,15 @@
 <h3 align="center">A Tech enthusiast,CSE student at BMSIT building innovative projects.</h3>
 <img align="right" alt="Coding" width="400"src="https://github.com/0raghvendrasharma/0raghvendrasharma/blob/main/SHARMA%E2%80%99S%20CODING%20WORLD.gif">
 
-- 🔭 I’m currently working on **Self driving Car with AI-ML.**
+- 🔭 I’m currently working on: **Self driving Car with AI-ML.**
 
-- 🌱 I’m currently learning **DEV,AI-ML**
+- 🌱 I’m currently learning: **DEV,AI-ML**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,Git**
+- 💬 Ask me about: **Html,CSS,JavaScript,Java,Git**
 
-- 📫 How to reach me **raghvendrasharma1122@gmail.com**
+- 📫 How to reach me: **raghvendrasharma1122@gmail.com**
 
-- ⚡ Interest apart from coding **Video Editing, Designing & Photography**
+- ⚡ Interest apart from coding: **Video Editing, Designing & Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
