@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Raghvendra Sharma</h1>
 <h3 align="center">A Tech enthusiast,CSE student at BMSIT building innovative projects.</h3>
-<img align="justify" alt="Coding" width="70%" height="auto "src="https://github.com/0raghvendrasharma/0raghvendrasharma/blob/main/SHARMA%E2%80%99S%20CODING%20WORLD.gif">
+ <img alt="Coding" style="max-width: 70%; height: auto; display: block; margin: 0 auto;" src="https://github.com/0raghvendrasharma/0raghvendrasharma/blob/main/SHARMA%E2%80%99S%20CODING%20WORLD.gif">
 
 <p align="left"> <a href="https://twitter.com/raghvendsharma" target="blank"><img src="https://img.shields.io/twitter/follow/raghvendsharma?logo=twitter&style=for-the-badge" alt="raghvendsharma" /></a> </p>
 
