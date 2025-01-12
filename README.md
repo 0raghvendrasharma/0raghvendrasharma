@@ -35,11 +35,3 @@
 <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a > <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Language Statistics:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0raghvendrasharma&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  For more information, visit the <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats API</a>.
-</p>
